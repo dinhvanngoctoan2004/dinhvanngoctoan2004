@@ -30,7 +30,8 @@
   </tr>
 </table>
 
-<!-- Snake animation eating contribution grid (style tương tự pacman/snake trên profile) -->
+
+<!-- Snake animation eating contribution grid -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinhvanngoctoan2004/dinhvanngoctoan2004/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinhvanngoctoan2004/dinhvanngoctoan2004/output/github-contribution-grid-snake.svg">
