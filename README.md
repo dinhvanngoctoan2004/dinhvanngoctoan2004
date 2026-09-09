@@ -74,15 +74,3 @@
   <img src="https://komarev.com/ghpvc/?username=dinhvanngoctoan2004&label=visitors&color=0e75b6&style=flat-square" alt="visitors" />
 </p>
 
----
-
-### 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinhvanngoctoan2004&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhvanngoctoan2004&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhvanngoctoan2004&theme=tokyonight&hide_border=true" width="98%" />
-</div>
