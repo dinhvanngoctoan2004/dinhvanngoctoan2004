@@ -41,22 +41,22 @@
 
 ### 📚 Language and Tools
 
-<p align="left">
-  <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,tailwind" />
-</p>
-<p align="left">
-  <!-- Databases & ORM -->
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
-</p>
-<p align="left">
-  <!-- DevOps & Deployment -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions" />
-</p>
-<p align="left">
-  <!-- Testing, Security & Tools -->
-  <img src="https://skillicons.dev/icons?i=jest,postman,git,figma" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Backend & Database</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,postgres,mongodb,redis,prisma&perline=4" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Frontend, DevOps & Tools</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,aws,nginx,githubactions,jest,postman,git&perline=5" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary><b>More about me, backend dev 🔥</b></summary>
