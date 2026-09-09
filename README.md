@@ -1,3 +1,19 @@
+<div align="center">
+
+  # Đinh Văn Ngọc Toàn
+  ### Full Stack Developer (DevOps-oriented)
+
+  <p>
+    <a href="tel:+84334604948"><img src="https://img.shields.io/badge/Phone-(+84)%20334%20604%20948-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="mailto:dinhvanngoctoan@gmail.com"><img src="https://img.shields.io/badge/Gmail-dinhvanngoctoan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/dinhvanngoctoan2004"><img src="https://img.shields.io/badge/GitHub-dinhvanngoctoan2004-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Location-Da%20Nang%2C%20Vietnam-0077B5?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </p>
+
+</div>
+
+---
+
 ### 👋 Hi there, Good Day
 
 <table>
@@ -14,6 +30,12 @@
   </tr>
 </table>
 
+<!-- Snake animation eating contribution grid (style tương tự pacman/snake trên profile) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dinhvanngoctoan2004/dinhvanngoctoan2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dinhvanngoctoan2004/dinhvanngoctoan2004/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dinhvanngoctoan2004/dinhvanngoctoan2004/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 ---
 
 ### 📚 Language and Tools
